@@ -5,6 +5,12 @@
     Created: October 12. 2021
     /////////////////////////////////////////////////////// */
 
+* {
+    padding: 10px;
+    margin: 20px;
+    width: fit-content;
+}
+
 #search_button {                                                /* Search Button */
     background-color: aquamarine;
     color: seagreen;

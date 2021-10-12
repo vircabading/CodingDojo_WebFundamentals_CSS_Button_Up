@@ -5,12 +5,17 @@
     Created: October 12. 2021
     /////////////////////////////////////////////////////// */
 
-.search_button {                                                /* Class Search Button */
+#search_button {                                                /* Search Button */
+    background-color: aquamarine;
+    color: seagreen;
 }
 
-.+_button {                                                     /* Class + Button */
+#plus_button {                                                  /* Plus Button */
+    background-color: seagreen;
+    color: white;
 }
 
-.create_account_button {                                        /* Class Create Account Button */
-
+#create_account_button {                                        /* Create Account Button */
+    background-color: blue;
+    color: white;
 }

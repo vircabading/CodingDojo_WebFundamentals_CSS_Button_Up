@@ -8,7 +8,7 @@
 * {
     padding: 10px;
     margin: 20px;
-    width: fit-content;
+
 }
 
 #search_button {                                                /* Search Button */
@@ -17,6 +17,9 @@
     border-color: seagreen;
     border-width: 2px;
     border-style: solid;
+    text-align: center;
+    width: 120px;
+    border-radius: 20px;
 }
 
 #plus_button {                                                  /* Plus Button */
@@ -25,6 +28,9 @@
     border-color: seagreen;
     border-width: 2px;
     border-style: solid;
+    text-align: center;
+    width: 20px;
+    border-radius: 50%;
 }
 
 #create_account_button {                                        /* Create Account Button */
@@ -33,4 +39,7 @@
     border-color: black;
     border-width: 2px;
     border-style: solid;
+    text-align: center;
+    width: 120px;
+    box-shadow: 5px 5px 4px black;
 }

@@ -14,14 +14,23 @@
 #search_button {                                                /* Search Button */
     background-color: aquamarine;
     color: seagreen;
+    border-color: seagreen;
+    border-width: 2px;
+    border-style: solid;
 }
 
 #plus_button {                                                  /* Plus Button */
     background-color: seagreen;
     color: white;
+    border-color: seagreen;
+    border-width: 2px;
+    border-style: solid;
 }
 
 #create_account_button {                                        /* Create Account Button */
     background-color: blue;
     color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
 }
